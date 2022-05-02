@@ -1,0 +1,28 @@
+[
+{
+"_id": "626ede47d5443e6f03dc3842",
+"title": "REST",
+"content": "REST is short REpresentational State Transfer. It is an architectural style for designing APIs."
+},
+{
+"_id": "626edf9bd5443e6f03dc3843",
+"title": "API",
+"content": "API stands for Application Programming Interface."
+},
+{
+"_id": "626edfdcd5443e6f03dc3844",
+"title": "Bootstrap",
+"content": "This is framework developed by Twitter that contains pre-made front-end tempaltes."
+},
+{
+"_id": "626edff1d5443e6f03dc3845",
+"title": "DOM",
+"content": "The Document Object Model is like an API for interacting with out HTML."
+},
+{
+"_id": "626eec025e56857104d35ef5",
+"title": "Martin Parizek",
+"content": "He is almost like Super Man.",
+"__v": 0
+}
+]
